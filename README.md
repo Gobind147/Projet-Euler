@@ -8,3 +8,5 @@ Problem Archives  https://projecteuler.net/archives
 
 Answer
 1. 233168
+2. 4613732
+3. 6857
